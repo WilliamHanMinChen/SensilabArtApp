@@ -13,6 +13,13 @@
 		3D3C10F6291D112500EBAEE5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D3C10F4291D112500EBAEE5 /* Main.storyboard */; };
 		3D3C10F8291D112600EBAEE5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D3C10F7291D112600EBAEE5 /* Assets.xcassets */; };
 		3D3C10FB291D112600EBAEE5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D3C10F9291D112600EBAEE5 /* LaunchScreen.storyboard */; };
+		3D976180292CCB2B002A6433 /* cow.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3D97617F292CCB2B002A6433 /* cow.wav */; };
+		3D976182292CCB2F002A6433 /* horse.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3D976181292CCB2F002A6433 /* horse.wav */; };
+		3D976184292CCB34002A6433 /* herdsman.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3D976183292CCB34002A6433 /* herdsman.wav */; };
+		3D976186292CCB39002A6433 /* hip-hip-hurrah.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3D976185292CCB39002A6433 /* hip-hip-hurrah.wav */; };
+		3D976188292CCB3E002A6433 /* james-abercromby-of-tullibody-esq.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3D976187292CCB3E002A6433 /* james-abercromby-of-tullibody-esq.wav */; };
+		3D97618A292CCB43002A6433 /* paris.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3D976189292CCB43002A6433 /* paris.wav */; };
+		3D97618C292CCB51002A6433 /* tennis.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3D97618B292CCB51002A6433 /* tennis.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +30,13 @@
 		3D3C10F5291D112500EBAEE5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3D3C10F7291D112600EBAEE5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D3C10FA291D112600EBAEE5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3D97617F292CCB2B002A6433 /* cow.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = cow.wav; sourceTree = "<group>"; };
+		3D976181292CCB2F002A6433 /* horse.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = horse.wav; sourceTree = "<group>"; };
+		3D976183292CCB34002A6433 /* herdsman.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = herdsman.wav; sourceTree = "<group>"; };
+		3D976185292CCB39002A6433 /* hip-hip-hurrah.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hip-hip-hurrah.wav"; sourceTree = "<group>"; };
+		3D976187292CCB3E002A6433 /* james-abercromby-of-tullibody-esq.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "james-abercromby-of-tullibody-esq.wav"; sourceTree = "<group>"; };
+		3D976189292CCB43002A6433 /* paris.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = paris.wav; sourceTree = "<group>"; };
+		3D97618B292CCB51002A6433 /* tennis.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = tennis.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +69,13 @@
 		3D3C10ED291D112500EBAEE5 /* SensiLab */ = {
 			isa = PBXGroup;
 			children = (
+				3D97617F292CCB2B002A6433 /* cow.wav */,
+				3D976181292CCB2F002A6433 /* horse.wav */,
+				3D976183292CCB34002A6433 /* herdsman.wav */,
+				3D976185292CCB39002A6433 /* hip-hip-hurrah.wav */,
+				3D976187292CCB3E002A6433 /* james-abercromby-of-tullibody-esq.wav */,
+				3D976189292CCB43002A6433 /* paris.wav */,
+				3D97618B292CCB51002A6433 /* tennis.wav */,
 				3D3C10EE291D112500EBAEE5 /* AppDelegate.swift */,
 				3D3C10F0291D112500EBAEE5 /* ViewController.swift */,
 				3D3C10F2291D112500EBAEE5 /* Experience.rcproject */,
@@ -124,7 +145,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D3C10FB291D112600EBAEE5 /* LaunchScreen.storyboard in Resources */,
+				3D97618A292CCB43002A6433 /* paris.wav in Resources */,
+				3D976188292CCB3E002A6433 /* james-abercromby-of-tullibody-esq.wav in Resources */,
+				3D976180292CCB2B002A6433 /* cow.wav in Resources */,
+				3D976186292CCB39002A6433 /* hip-hip-hurrah.wav in Resources */,
 				3D3C10F8291D112600EBAEE5 /* Assets.xcassets in Resources */,
+				3D97618C292CCB51002A6433 /* tennis.wav in Resources */,
+				3D976182292CCB2F002A6433 /* horse.wav in Resources */,
+				3D976184292CCB34002A6433 /* herdsman.wav in Resources */,
 				3D3C10F6291D112500EBAEE5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -295,6 +323,7 @@
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -325,6 +354,7 @@
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
