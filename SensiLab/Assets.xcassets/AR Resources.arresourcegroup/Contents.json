@@ -5,13 +5,19 @@
   },
   "resources" : [
     {
+      "filename" : "cow.arreferenceimage"
+    },
+    {
       "filename" : "herdsman.arreferenceimage"
     },
     {
-      "filename" : "hip-hip-hurrah.arreferenceimage"
+      "filename" : "horse.arreferenceimage"
     },
     {
-      "filename" : "tennis.arreferenceimage"
+      "filename" : "james.arreferenceimage"
+    },
+    {
+      "filename" : "paris.arreferenceimage"
     }
   ]
 }
